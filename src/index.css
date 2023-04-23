@@ -1,0 +1,11 @@
+*{
+  background-color: #020617;
+  height: 100vh; /* 100% высоты окна браузера */
+  width: 100vw; /* 100% ширины окна браузера */
+}
+
+body {
+  overflow: hidden;
+}
+
+
